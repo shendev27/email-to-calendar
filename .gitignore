@@ -1,0 +1,19 @@
+# OAuth client credentials downloaded from Google Cloud Console -- never commit
+client_secret.json
+
+# Any local token/credential dumps
+token.json
+*.token
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env files if you ever add one for local testing
+.env
+
+# OS/editor cruft
+.DS_Store
